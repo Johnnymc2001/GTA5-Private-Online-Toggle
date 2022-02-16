@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GTA5-Private-Session", "GTA5-Private-Session\GTA5-Private-Session.csproj", "{FB0CD4AD-B96C-46DE-8689-F5583B31881F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0CD4AD-B96C-46DE-8689-F5583B31881F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0CD4AD-B96C-46DE-8689-F5583B31881F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0CD4AD-B96C-46DE-8689-F5583B31881F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0CD4AD-B96C-46DE-8689-F5583B31881F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AD7814-EC4F-4D76-ABE3-2338B1A29ED0}
+	EndGlobalSection
+EndGlobal
